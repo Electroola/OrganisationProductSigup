@@ -1,4 +1,4 @@
-describe('TryMima Home Page Tests', () => {
+describe('Home Page Tests', () => {
   beforeEach(() => {
       cy.visit('https://trymima.com')
   });
